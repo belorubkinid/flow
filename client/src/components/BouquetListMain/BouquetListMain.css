@@ -1,0 +1,22 @@
+.category-title {
+  text-align: left;
+  font-size: 37px;
+  line-height: 40px;
+  padding-left: 20px;
+}
+
+.card-btn-catalog {
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 300;
+  border: none;
+  background-color: #e8e8e8;
+  padding: 10px 70px 10px 70px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.card-btn-catalog:hover {
+  background-color: #d0d0d0;
+}

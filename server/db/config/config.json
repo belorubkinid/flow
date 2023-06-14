@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "flow",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "seederStorage": "sequelize",
+    "seederStorageTableName": "SequelizeData"
+  }
+}
+
